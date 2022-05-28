@@ -52,6 +52,7 @@ Key Insights:
 
 4. Our Sales and Profit grid higlights the above point more clearly for sales transactions under 1,000 dollars. We can see furtniture, particularly in the Consumer and Corporate segments where a large portion of all of these sales are not profitable. Home Office segment in the technological category appears to be very profitable on a per transaction basis, particularly in the Central region.
 
+<img src="images/superstore_central_state_profit_plots.png"/>
 <img src="images/superstore_central_profit_plots.png"/>
 
 ### 5. CEO Recommendations
