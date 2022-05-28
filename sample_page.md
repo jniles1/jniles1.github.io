@@ -27,13 +27,7 @@ Key Insights:
 3. Technology and Office Supplies were key drivers of sales growth in 2017 vs 2016. However Furniture has been a YoY growth category for the company since 2014.
 4. Season sales pattern exists in all years with sales picking up in August and continue to increase until end of December.
 
-
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
