@@ -27,11 +27,18 @@ Key Insights:
 3. Technology and Office Supplies were key drivers of sales growth in 2017 vs 2016. However Furniture has been a YoY growth category for the company since 2014.
 4. Season sales pattern exists in all years with sales picking up in August and continue to increase until end of December.
 
-<img src="images/superstore_sales_plots.PNG"/>
+<img src="images/superstore_sales_plots.png"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Profit Analysis
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Key Insights:
+
+1. East and West regions were most profitable which is not surprsing given they had the most sales. South and Central regions were least profitable and saw their profitability decline in the 2017 vs 2016.
+2. From a segment perspective the Consumer and Corporate segments are accounting for majority of profit, however corporate has declined in 2017 vs 2016. Home Office has grown the most on a percentage basis in 2017 vs 2016.
+3. Furniture is the least profitable category within the company, with Tables and Bookcases leading the way. Technology is the key profitability driver with copiers, phones and accessories driving profitability for the category.
+4. Our Sales and Profit grid higlights the above point more clearly for sales transactions under 1,000 dollars. We can see furtniture, particularly in the Consumer and Corporate segments where a large portion of all of these sales are not profitable. Home Office segment in the technological category appears to be very profitable on a per transaction basis, particularly in the Central region.
+
+<img src="images/superstore_profit_plots.png"/>
 
 ### 4. CEO Recommendations
 
