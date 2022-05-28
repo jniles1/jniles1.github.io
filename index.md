@@ -2,7 +2,7 @@
 
 ---
 
-### Python Project - Data Analysis 
+### Python Projects - Data Analysis 
 
 [Superstore Sales Project](/sample_page)
 <img src="images/superstore_profit_plots.png"/>
