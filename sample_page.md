@@ -58,6 +58,6 @@ Key Insights:
 
 1. Shift focus of business to the technology category as this is fastest growing and most profitable category in your business. Also there appears to be a shift in sales moving from Corporate segment to the Home Office segment which may be signiling a trend in where employees are working. We should be monitoring this trend and shift our business if needed to focus on these customers.
 
-2. Reduce level of discounting i Central region, particularly in Illinos and Texas where discounting is averaging 35% which is making it impossible to turn a profit. We may need to do further analysis to determine why we are discounting so much in these regions? Is it to hit sales targets? Competitoion in the area?  
+2. Reduce level of discounting in Central region, particularly in Illinos and Texas where discounting is averaging 35% which is making it impossible to turn a profit. We may need to do further analysis to determine why we are discounting so much in these regions? Is it to hit sales targets? Competitoion in the area?  
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
