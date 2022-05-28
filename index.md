@@ -2,10 +2,10 @@
 
 ---
 
-### Sales Analysis 
+### Python Data Analysis 
 
 [Superstore Sales Data](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/superstore_profit_plots.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
