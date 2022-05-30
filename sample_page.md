@@ -2,6 +2,8 @@
 
 **Project description:** The CEO has asked us to analyze the companies sales data for last 4 year (2014-2017) and pull out some insights on how we can become more profitable, her bonus depends on it!
 
+Click here Jupyter Notebook : 
+
 ### 1. Analysis Overview
 
 To do this we will use plots to answer the following questions:
