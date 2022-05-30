@@ -2,7 +2,7 @@
 
 **Project description:** The CEO has asked us to analyze the companies sales data for last 4 year (2014-2017) and pull out some insights on how we can become more profitable, her bonus depends on it!
 
-Click here Jupyter Notebook : https://github.com/jniles1/jniles1.github.io/blob/97335de2ba2f5ef6dae2b19854963e982d779e2d/Projects/Superstore%20Sales%20Jupyter%20Notebook.html 
+Click here Jupyter Notebook : Projects/Superstore Sales Jupyter Notebook.html
 
 ### 1. Analysis Overview
 
