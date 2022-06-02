@@ -1,4 +1,4 @@
-## Energy Efficency Linear Regression
+## Energy Efficiency Linear Regression
 
 **Project description:** 
 
