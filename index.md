@@ -12,7 +12,7 @@
 ### Python Projects - Machine Learning
 
 
-[Energy Efficency](/sample_page)
+[Energy Efficency](/Energy_efficency)
 <img src="images/superstore_profit_plots.png"/>
 
 ---
