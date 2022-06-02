@@ -12,7 +12,7 @@
 ### Python Projects - Machine Learning
 
 
-[Energy Efficency](/Energy_efficency)
+[Energy Efficiency](/Energy_efficency)
 <img src="images/Project Profile Image.jpg"/>
 
 ---
