@@ -6,7 +6,7 @@ We have been tasked with creating a predictive model of a buildings heating and 
 
 We have been provide with the building characteristics and the Heating and Cooling loads of 768 buildings in their portfolio which have been rated. We will use this data to come out with our predictive model to help ABC Commercial Real Estate out so they can estimate their remaining 1,500 buildings in their portfolio.
 
-Link for Jupyter Notebook : ()
+Link for Jupyter Notebook : (https://github.com/jniles1/jniles1.github.io/blob/main/Projects/Energy%20Efficiency%20Model.ipynb)
 
 **Executive Summary:**
 
