@@ -13,7 +13,7 @@
 
 
 [Energy Efficency](/Energy_efficency)
-<img src="images/superstore_profit_plots.png"/>
+<img src="images/Project Profile Image.jpg"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
