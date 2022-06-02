@@ -4,7 +4,7 @@
 
 ### Python Projects - Data Analysis 
 
-[Superstore Sales Project](/sample_page)
+[Superstore Sales Project](/Superstore_page)
 <img src="images/superstore_profit_plots.png"/>
 
 ---
