@@ -11,8 +11,7 @@ Link for Jupyter Notebook : (https://github.com/jniles1/jniles1.github.io/blob/m
 **Executive Summary**
 
 From our exploration of the data we concluded that the heating and cooling loads of individual buildings have a very strong correlation (0.98) which makes sense as the required energy to heat a building should also roughly equal the required energy to cool a building. Secondly we found that many of the buildings features correlated well with the heating and cooling loads and thus would be suitable for building a multiple linear regression model to test whether we could predict, with some accuracy, the heating and cooling loads of their already rated buildings.
-<img src="images/.png"/>
-
+<img src="images/Heat_Cool_Scatter_Feature_Heatmap.png"/>
 Given the range in correlations between features and the predictor values we will use the recursive feature elimination wrapper method to determine the optimal features to get the best prediction results of the heating and cooling loads. After running the RFE it was determined that the optimal number of features is 5 which minmizes the Root Mean Square Error of the test predictions. These features were:
 
 1.Relative_Compactness
